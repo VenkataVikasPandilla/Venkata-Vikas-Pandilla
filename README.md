@@ -18,7 +18,7 @@
 
 <h2> Certifications </h2>
 
-- [Google Cyber Security Professinal](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cyber Security Professinal](https://coursera.org/share/ea86db784f8c09c169dca0cda8a74634)
 - [Comptia Security +](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
